@@ -1,1 +1,1 @@
-# DLCourse_MOi_2022
+# ressources for introduction to deep learning 
